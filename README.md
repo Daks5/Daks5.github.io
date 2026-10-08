@@ -8,4 +8,4 @@ Projects: E-Commerce Sales Analytics, Blinkit Profitability, Deepfake Audio Dete
 
 GitHub Pages publishes automatically from main at the repository root. Edit index.html for content, styles.css for styling, and app.js for interactions. Preview with python -m http.server 8787.
 
-Template inspiration: [Khushi Mudgil](https://khushimudgil.github.io/) and [Colorlib](https://colorlib.com/).
+Template: [Colorlib](https://colorlib.com/).
