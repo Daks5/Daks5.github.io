@@ -10,9 +10,9 @@ GitHub Pages publishes automatically from main at the repository root. Edit inde
 
 Template: [Colorlib](https://colorlib.com/).
 
-Sections: Home → About → Projects → Resume → Achievements → Contact.
+Sections: Home → About → Projects → Experience → Achievements → Contact.
 
-The resume download button sits below the Resume heading. Experience lists Growth Intern at BeyondTech (May–July 2026) above Research Intern at NSUT.
+The Resume button directly below the hero photo opens the Google Drive PDF online in a new tab without forcing a download. Experience contains Growth Intern at BeyondTech (May–July 2026), followed by Research Intern at NSUT (May–July 2025).
 
 Project repositories:
 - [E-Commerce Sales Analytics](https://github.com/Daks5/E-Commerce-Sales-Analytics)
